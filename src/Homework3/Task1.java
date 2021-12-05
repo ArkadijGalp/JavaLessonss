@@ -2,8 +2,8 @@ package Homework3;
 
 public class Task1 {
     public static void main(String[] args) {
-        int n1=0;
-        int n2=1;
+        int n1 = 0;
+        int n2 = 1;
         int n3;
         int i;
         int count=10;
